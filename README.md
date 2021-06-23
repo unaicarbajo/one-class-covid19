@@ -7,4 +7,6 @@ This project presents a machine learning workflow composed by a data filtering p
 The 3 experiments showed an overall ROC-AUC of 0.558±0.101 and sensitivity of 0.567±0.123. The analysis made after the classifications turned out to highlight the weak representation of deceased samples and strong similarity between deceased and discharged patients, a key issue in COVID-19 prognosis prediction problems.
 
 
-The whole experimentation is defined in the file *covid19_prognosis.ipynb*. The files *covid19_prognosis_raw.ipynb* and *covid19_prognosis_trial.ipynb* contain experimentation with the initial (not processed) data and several models' trial.
+The whole experimentation is defined in the file *[covid19_prognosis.ipynb](https://github.com/unaicarbajo/one-class-covid19/blob/main/covid19_prognosis.ipynb)*. The files *[covid19_prognosis_raw.ipynb](https://github.com/unaicarbajo/one-class-covid19/blob/main/covid19_prognosis_raw.ipynb)* and *[covid19_prognosis_trial.ipynb](https://github.com/unaicarbajo/one-class-covid19/blob/main/covid19_prognosis_trial.ipynb)* contain experimentation with the initial (not processed) data and several models' trials.
+
+Additional information about the project is stored in the file *[documentation.pdf](https://github.com/unaicarbajo/one-class-covid19/blob/main/documentation.pdf)*.
